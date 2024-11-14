@@ -1,5 +1,5 @@
 ## Found Crypto : 
-<img src="Found Crypto_1.png">
+<img src="Found_Crypto_1.png">
 💵 I would like to introduce you to our mnemonic bruteforcing app. This is not a new method of earning, but still very effective
 
 Any crypto address has its mnemonic phrase, which consists of 12 words. Knowing it you can get full access to the wallet. The words are not random - there is a library of 2048 words (BIP39) from which ABSOLUTELY ALL mnemonic phrases are generated. Our app generates mnemonic phrases and checks their balances on different blockchains
@@ -7,11 +7,11 @@ Any crypto address has its mnemonic phrase, which consists of 12 words. Knowing 
 ⬇️More details about this method below
 
 ## Found Crypto :
-<img src="Found Crypto_2.png">
+<img src="Found_Crypto_2.png">
 Login Aplikasi Found Crypto
 
 ## Found Crypto :
-<img src="Found Crypto_3.png">
+<img src="Found_Crypto_3.png">
 
 AVAILABLE VERSIONS: 
 
@@ -36,7 +36,7 @@ FAQ:
 📲If you have any questions - contact
 
 ## Found Crypto :
-<img src="Found Crypto_4.png">
+<img src="Found_Crypto_4.png">
 
  PRICE:
 
@@ -68,7 +68,7 @@ TYPES OF LICENSE:
 
 
 ## Found Crypto :
-<img src="Found Crypto_5.png">
+<img src="Found_Crypto_5.png">
 
 👉 I provide you with all the 
 
@@ -87,11 +87,11 @@ Find wallets with me 👉
 <img src="Promo_Discount_1.png">
 💸 Free Discount Only 
 
-<img src="Promo_Discount_1.png">
+<img src="Promo_Discount_2.png">
 💸 Free Discount Only 
 
 ## Found Crypto :
-<img src="Promo_Discount_1.png">
+<img src="Promo_Discount_3.png">
 💸 Free Discount Only
 
 
